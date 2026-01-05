@@ -113,7 +113,7 @@ export default function PrivacyPage() {
                         If you have any questions or concerns about this Privacy Policy, you can contact us at:
                     </p>
                     <p className="text-gray-700 mt-2">
-                        📧 <a href="mailto:your-email@example.com" className="text-blue-600 hover:text-blue-800 underline">
+                        📧 <a href="mailto:devutsav0710@gmail.com" className="text-blue-600 hover:text-blue-800 underline">
                             devutsav0710@gmail.com
                         </a>
                     </p>
