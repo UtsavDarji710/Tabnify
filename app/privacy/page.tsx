@@ -6,7 +6,7 @@ export default function PrivacyPage() {
                 <p className="text-gray-500 mb-8">Last updated: January 2, 2026</p>
 
                 <p className="text-gray-700 mb-8 leading-relaxed">
-                    Thank you for using <strong>[Your Extension Name]</strong>. Your privacy is extremely important to us.
+                    Thank you for using <strong>Tabnify</strong>. Your privacy is extremely important to us.
                     This Privacy Policy explains how we handle your information when you use our Chrome extension.
                 </p>
 
@@ -14,7 +14,7 @@ export default function PrivacyPage() {
                 <section className="mb-8">
                     <h2 className="text-2xl font-semibold text-gray-900 mb-4">1. Information We Collect</h2>
                     <p className="text-gray-700 mb-4 leading-relaxed">
-                        <strong>[Your Extension Name]</strong> does <strong>NOT</strong> collect, store, or transmit any personal data to external servers.
+                        <strong>Tabnify</strong> does <strong>NOT</strong> collect, store, or transmit any personal data to external servers.
                     </p>
                     <p className="text-gray-700 mb-4 leading-relaxed">
                         The extension may access the following browser data only locally on your device to provide its core functionality:
@@ -114,7 +114,7 @@ export default function PrivacyPage() {
                     </p>
                     <p className="text-gray-700 mt-2">
                         📧 <a href="mailto:your-email@example.com" className="text-blue-600 hover:text-blue-800 underline">
-                            your-email@example.com
+                            devutsav0710@gmail.com
                         </a>
                     </p>
                 </section>
