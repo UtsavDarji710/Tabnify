@@ -89,7 +89,7 @@ export default function Home() {
               Privacy
             </Link>
             <a
-              href="#"
+              href="https://chromewebstore.google.com/detail/smart-tab-manager/mgigbjjhejcaigecdanajdmolpijbogm"
               className="px-5 py-2.5 rounded-full bg-gradient-to-r from-indigo-500 to-purple-600 text-white font-medium hover:shadow-lg hover:shadow-indigo-500/25 transition-all duration-300 hover:scale-105"
             >
               Add to Chrome
@@ -126,7 +126,7 @@ export default function Home() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
             <a
-              href="#"
+              href="https://chromewebstore.google.com/detail/smart-tab-manager/mgigbjjhejcaigecdanajdmolpijbogm"
               className="group flex items-center gap-3 px-8 py-4 rounded-full bg-gradient-to-r from-indigo-500 to-purple-600 text-white font-semibold text-lg hover:shadow-2xl hover:shadow-indigo-500/30 transition-all duration-300 hover:scale-105"
             >
               <svg
@@ -306,7 +306,7 @@ export default function Home() {
               experience with Tabnify.
             </p>
             <a
-              href="#"
+              href="https://chromewebstore.google.com/detail/smart-tab-manager/mgigbjjhejcaigecdanajdmolpijbogm"
               className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-white text-indigo-600 font-semibold text-lg hover:shadow-2xl transition-all duration-300 hover:scale-105"
             >
               <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -340,18 +340,6 @@ export default function Home() {
               >
                 Privacy Policy
               </Link>
-              <a
-                href="#"
-                className="text-gray-600 hover:text-gray-900 transition-colors"
-              >
-                Contact
-              </a>
-              <a
-                href="#"
-                className="text-gray-600 hover:text-gray-900 transition-colors"
-              >
-                GitHub
-              </a>
             </div>
 
             <p className="text-gray-500 text-sm">
