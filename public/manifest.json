@@ -1,0 +1,16 @@
+{
+    "name": "Tabnify – Smart Tab Manager",
+    "short_name": "Tabnify",
+    "description": "Free Chrome extension to organize browser tabs. Group by domain, save sessions, focus mode & more.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#6366f1",
+    "icons": [
+        {
+            "src": "/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
