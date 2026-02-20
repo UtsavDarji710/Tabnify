@@ -97,6 +97,11 @@ export const metadata: Metadata = {
 
   category: "Productivity",
 
+  icons: {
+    icon: "/favicon.ico",
+    apple: "/logo.png",
+  },
+
   verification: {
     google: "pHkDrqsueZKapriM4krJku7KXBxwQPlwMasSYTvm31A",
   },
