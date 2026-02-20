@@ -98,7 +98,7 @@ export const metadata: Metadata = {
   category: "Productivity",
 
   verification: {
-    google: "AnUjvOAfF34-K0AaaHIq3ldz05VCljhuymNLFZo_yxA",
+    google: "pHkDrqsueZKapriM4krJku7KXBxwQPlwMasSYTvm31A",
   },
 
   other: {
