@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import Navbar from "./components/Navbar";
 import FeatureCard from "./components/FeatureCard";
 import StatCard from "./components/StatCard";
 
@@ -140,51 +141,7 @@ export default function Home() {
       <JsonLd />
       <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-indigo-50">
         {/* Navigation */}
-        <nav
-          className="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur-md border-b border-gray-100"
-          aria-label="Main navigation"
-        >
-          <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
-            <Link href="/" className="flex items-center gap-3" aria-label="Tabnify Home">
-              <Image
-                src="/logo.png"
-                alt="Tabnify Logo"
-                width={40}
-                height={40}
-                className="rounded-xl"
-                priority
-              />
-              <span className="text-xl font-bold text-gray-900">Tabnify</span>
-            </Link>
-            <div className="flex items-center gap-6">
-              <Link
-                href="#features"
-                className="text-gray-600 hover:text-gray-900 transition-colors"
-              >
-                Features
-              </Link>
-              <Link
-                href="#faq"
-                className="text-gray-600 hover:text-gray-900 transition-colors"
-              >
-                FAQ
-              </Link>
-              <Link
-                href="/privacy"
-                className="text-gray-600 hover:text-gray-900 transition-colors"
-              >
-                Privacy
-              </Link>
-              <a
-                href="https://chromewebstore.google.com/detail/smart-tab-manager/mgigbjjhejcaigecdanajdmolpijbogm"
-                className="px-5 py-2.5 rounded-full bg-gradient-to-r from-indigo-500 to-purple-600 text-white font-medium hover:shadow-lg hover:shadow-indigo-500/25 transition-all duration-300 hover:scale-105"
-                rel="noopener noreferrer"
-              >
-                Add to Chrome
-              </a>
-            </div>
-          </div>
-        </nav>
+        <Navbar />
 
         <main>
           {/* Hero Section */}
